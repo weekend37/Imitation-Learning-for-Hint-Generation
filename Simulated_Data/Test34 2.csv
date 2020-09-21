@@ -1,0 +1,5 @@
+timestamp,sender,payload," ""Question"""," ""Hint"""
+2019-08-07T18:45:37.585082+00:00,child,The pencil is not really clear to me,,
+2019-08-07T18:46:26.404414+00:00,wizard,gives video,2,3
+2019-08-07T18:48:32.561615+00:00,child,ok. 20,,
+2019-08-07T18:48:35.729577+00:00,wizard ,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you can find that the length would fit 10 chocolates. ",2,4

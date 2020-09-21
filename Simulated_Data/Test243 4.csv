@@ -1,0 +1,9 @@
+timestamp,sender,payload," ""Question"""," ""Hint"""
+2019-08-07T18:42:57.344797+00:00,child,"this is intersting, thanks cyclops! What do I do with this box and chocolat though? Can I eat it?",,
+2019-08-07T18:43:05.257571+00:00,wizard,You can use the chocolate to figure out how many pieces of chocolates can fit along the width of the box. ,2,2
+2019-08-07T18:45:21.359345+00:00,child,"interesting, if I look at this box I think it is 99",,
+2019-08-07T18:45:30.448479+00:00,wizard,"To check how many chocolates would fit along the width of the box, take your chocolate and move it along the box. Use your pencil to help you mark on the box to see how many chocolates can be fit along the width. ",2,4
+2019-08-07T18:45:37.585082+00:00,child,"Why would I use a pencil for this, I do not understand your hints.",,
+2019-08-07T18:46:26.404414+00:00,wizard,gives video,2,3
+,,,,
+,,,,

@@ -1,0 +1,7 @@
+timestamp,sender,payload," ""Question"""," ""Hint"""
+2019-08-07T18:45:21.359345+00:00,child,How do I use the box and chocolate?,,
+2019-08-07T18:45:30.448479+00:00,wizard,"To check how many chocolates would fit along the width of the box, take your chocolate and move it along the box. Use your pencil to help you mark on the box to see how many chocolates can be fit along the width. ",2,2
+2019-08-07T18:45:37.585082+00:00,child,"ah I see, but what is the pencil good for? I do not understand",,
+2019-08-07T18:46:26.404414+00:00,wizard,gives video,2,3
+2019-08-07T18:48:32.561615+00:00,child,I think it is 15,,
+2019-08-07T18:48:35.729577+00:00,wizard ,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you can find that the length would fit 10 chocolates. ",2,4
